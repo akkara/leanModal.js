@@ -1,2 +1,2 @@
 Directly call from js side:
-$('#div_id').leanModal() will works fine..
+$('#div_id').leanModal() works fine..
